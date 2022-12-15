@@ -1,12 +1,3 @@
-## Hi there 👋
+## LABORATÓRIO DE SUPORTE A INOVAÇÃO - UNEMAT
 
-<!--
-
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+A inovação sempre foi um dos grandes pilares de evolução da sociedade e com o suporte da tecnologia pode contribuir para superar momentos de dificuldade. A exemplo disto, muitas empresas se reinventarão durante a pandemia para sobreviverem, como por exemplo, adotando serviços de entregas por drones, trabalho em casa (Home Office), etc. No entanto, muitas iniciativas ou negócios se esbarram em limitações técnicas de seus idealizadores e não conseguem se reinventar ou avançar no tempo pretendido. Essas limitações muitas vezes estão associadas a inúmeras deficiências individuais ou da equipe envolvida relacionadas principalmente a tecnologias de software e hardware. Prover conhecimento acerca de ferramentas de software, serviços e profissionais é uma das formas de ajudar a reduzir essas deficiências. Neste sentido, este novo projeto do LSI agrega ao suporte técnico e científico para iniciativas de inovação, um canal digital com conteúdo técnico acerca de ferramentas de software, hardware e relacionadas a inovação. Este canal visa atender de forma nacional, estudantes, profissionais liberais, empresas e/ou qualquer iniciativa de inovação. O canal irá agrupar material em vídeo, e assim como o suporte técnico e científico, irá contar com um corpo técnico formado por alunos, professores, e profissionais que queiram colaborar com a iniciativa. O material será organizado de forma temática, tendo como principal meio de divulgação as mídias sociais, como Youtube, Instagram, etc. Além do canal, o LSI visa manter, como feito nos anos anteriores, o atendimento à iniciativas de inovação, contudo, agora de forma presencial, desde que não viole as condições sanitárias vigentes.
