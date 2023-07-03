@@ -11,6 +11,7 @@
 
 ## Projetos em desenvolvimento:
 
+- Automação e Controle de Ambientes Prediais: Otimização dos Recursos Energéticos
 - Rede de Notícias e Avisos com ESP32 utilizando monitores reciclados
 - Software de Controle para Mini Torrador de Café
 - Sistema de Controle de Bebidas por Software
